@@ -1,36 +1,41 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚗 Park-N-Go
 
-## Getting Started
+**Park-N-Go** is a full-stack web application designed to optimize urban parking space allocation, management, and real-time navigation. Built on Next.js, this project integrates secure user authentication, structured database schemas, and clean state management to deliver an efficient user experience.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🎯 Key Academic & Technical Highlights
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+* **Full-Stack Architecture:** Built using Next.js App Router, unifying frontend server components with modular backend API routes.
+* **Authentication & Authorization:** Configured OAuth (Google Authentication) and session middleware for secure access control.
+* **Data Modeling & Schema Design:** Implemented relational database models via **Prisma ORM** to handle parking slot availability and reservation records.
+* **Optimized UI/UX:** Responsive interfaces built with **Tailwind CSS** for fast rendering across desktop and mobile devices.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🛠️ Tech Stack
 
-## Learn More
+* **Frontend & Backend Framework:** [Next.js](https://nextjs.org/) (React)
+* **Database & ORM:** PostgreSQL / Prisma ORM
+* **Authentication:** NextAuth.js / Google OAuth
+* **Styling & Design:** Tailwind CSS / PostCSS
+* **Version Control:** Git & GitHub
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🚀 Getting Started
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Follow these steps to set up and run the development environment locally.
 
-## Deploy on Vercel
+### Prerequisites
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+* **Node.js:** v18.x or higher
+* **npm** or **yarn** package manager
+* A running **PostgreSQL** database instance (or local setup)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Local Setup Instructions
+
+1. **Clone the Repository:**
+   ```bash
+   git clone [https://github.com/Riya-Basnet12/Park-N-Go.git](https://github.com/Riya-Basnet12/Park-N-Go.git)
+   cd Park-N-Go
