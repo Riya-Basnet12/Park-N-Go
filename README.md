@@ -4,7 +4,7 @@
 
 ---
 
-## 🎯 Key Academic & Technical Highlights
+## Key Academic & Technical Highlights
 
 * **Full-Stack Architecture:** Built using Next.js App Router, unifying frontend server components with modular backend API routes.
 * **Authentication & Authorization:** Configured OAuth (Google Authentication) and session middleware for secure access control.
@@ -13,7 +13,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Frontend & Backend Framework:** [Next.js](https://nextjs.org/) (React)
 * **Database & ORM:** PostgreSQL / Prisma ORM
@@ -23,7 +23,7 @@
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 Follow these steps to set up and run the development environment locally.
 
